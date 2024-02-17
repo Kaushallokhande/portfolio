@@ -1,5 +1,5 @@
 const header = {
-  // homepage: 'https://name.github.io/portfolio',
+  homepage: 'https://react-pro-folio.netlify.app/',
   title: 'KL.',
 }
 
@@ -23,6 +23,7 @@ const projects = [
     stack: ['React', 'API', 'Bootstrap'],
     sourceCode: 'https://github.com/Kaushallokhande/DailyNewspaper',
     livePreview: 'https://www.youtube.com/watch?v=vvWJPjjEmIE',
+    image: 'newpaper.png'
   },
   {
     name: 'iNotesBook Project',
@@ -31,6 +32,7 @@ const projects = [
     stack: ['React', 'Node', 'Express','MongooseDB'],
     sourceCode: 'https://github.com/Kaushallokhande/Task-Management',
     livePreview: 'https://www.youtube.com/watch?v=cJDfHY7y5m4',
+    image: 'task.png'
   },
   {
     name: 'Instant Laughter Generator',
@@ -39,6 +41,7 @@ const projects = [
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Kaushallokhande/Random-Jokes',
     livePreview: 'https://randomm-joke.netlify.app/',
+    image: 'joke.png'
   },
 ]
 

@@ -3,6 +3,12 @@
   margin-top: 3em;
 }
 
+.about-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .about__name {
   color: var(--clr-primary);
 }
@@ -29,9 +35,23 @@
   margin-right: 1em;
 }
 
+.imageProfile {
+  margin-top: 2em;
+}
+
 @media (max-width: 600px) {
   .app .about {
     align-items: flex-start;
     margin-top: 2em;
   }
+  .about-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .imageProfile {
+    order: 1;
+    margin-top: 1em;
+  }
 }
+
