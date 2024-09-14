@@ -8,7 +8,7 @@ const about = {
   role: 'Front End Developer',
   description:
     'I am an accomplished Full-Stack Developer with expertise in React, Node.js, and Express.js. My skill set includes crafting intuitive user interfaces and delivering scalable solutions.',
-  resume: 'https://drive.google.com/file/d/14-7qLBu9NkgAJkOMLN_6LM5gF0hytWXE/view?usp=drive_link',
+  resume: 'https://drive.google.com/file/d/1GuOrInyPD2Z5DApucQK1ZoWE_XemZus7/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/kaushal-lokhande-709432256/',
     github: 'https://github.com/Kaushallokhande',
