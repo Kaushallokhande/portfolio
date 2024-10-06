@@ -15,14 +15,15 @@
 }
 
 .dark {
-  --clr-bg: #23283e;
-  --clr-bg-alt: #2a2f4c;
-  --clr-fg: #bdbddd;
-  --clr-fg-alt: #cdcdff;
-  --clr-primary: #90a0d9;
-  --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
-    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  --clr-bg: #1e1e2f;
+  --clr-bg-alt: #292c4d;
+  --clr-fg: #e0e0e0;
+  --clr-fg-alt: #ffffff;
+  --clr-primary: #6a79f9;
+  --shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px 0px,
+    rgba(0, 0, 0, 0.1) 0px 0px 5px 0px;
 }
+
 
 main {
   max-width: 1100px;
