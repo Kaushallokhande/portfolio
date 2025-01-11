@@ -31,7 +31,7 @@ const projects = [
       'This is a React-based news application that allows users to explore news articles from various categories. The app uses the News API to fetch real-time news data.',
     stack: ['React', 'Bootstrap', 'React-Router-Dom', 'REST API', 'React-Infinite-Scroll', 'CSS'],
     sourceCode: 'https://github.com/Kaushallokhande/Headline-Hub',
-    livePreview: 'https://www.youtube.com/watch?v=vvWJPjjEmIE',
+    livePreview: 'https://headline-hub-tau.vercel.app/',
     image: 'newpaper.png'
   },
   {
