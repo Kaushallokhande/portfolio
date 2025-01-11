@@ -58,7 +58,7 @@ const projects = [
       'Welcome to iNotesBook, a full-stack web application for managing notes, contacts, and news. This project is built using React for the frontend and Node.js with Express for the backend.',
     stack: ['React js', 'Node js', 'Express', 'MongoDB'],
     sourceCode: 'https://github.com/Kaushallokhande/Task-Management',
-    livePreview: 'https://www.youtube.com/watch?v=cJDfHY7y5m4',
+    livePreview: 'https://task-management-nine-ebon.vercel.app/',
     image: 'task.png'
   },
   {
