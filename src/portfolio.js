@@ -17,6 +17,14 @@ const about = {
 
 const projects = [
   {
+    "name": "CodeLive",
+    "description": "CodeLive is a real-time collaborative coding platform designed for seamless peer programming and technical interviews. It enables users to create and join coding sessions, edit code collaboratively, and communicate via an integrated chat system. The platform features secure authentication, room management, syntax highlighting, and real-time updates powered by Socket.IO.",
+    "stack": ["React.js", "Node.js", "Express", "MongoDB", "Socket.IO", "Material UI"],
+    "sourceCode": "https://github.com/Kaushallokhande/CodeLive",
+    "livePreview": "https://codelive-virid.vercel.app/",
+    "image": "codelive.png"
+  },  
+  {
     name: 'Prahari',
     description:
       'This is a React-based news application that allows users to explore news articles from various categories. The app uses the News API to fetch real-time news data.',
